@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1459979420 source:f:\trabajo practico calculadora\funciones.c
+
+1459979176 source:f:\trabajo practico calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459978844 f:\trabajo practico calculadora\funciones.h
+
+1459981505 source:d:\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1459981740 d:\tpcalculadora\utn.h
+
+1459983329 source:d:\tpcalculadora\utn.c
+
+1460011624 source:e:\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1460011626 e:\tpcalculadora\utn.h
+
+1460011624 source:c:\users\aqa no emtras sabelo\desktop\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1460011626 c:\users\aqa no emtras sabelo\desktop\tpcalculadora\utn.h
+
+1460011636 source:c:\users\aqa no emtras sabelo\desktop\tpcalculadora\utn.c
+
+1460011624 source:c:\users\aqa no emtras sabelo\desktop\calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1460011626 c:\users\aqa no emtras sabelo\desktop\calcu\utn.h
+
+1460011636 source:c:\users\aqa no emtras sabelo\desktop\calcu\utn.c
+
