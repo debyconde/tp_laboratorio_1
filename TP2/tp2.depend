@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1461478496 source:e:\trabajo practico 2\tp2\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1461711674 source:f:\trabajo practico 2ultimo\tp2\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1461734830 source:e:\trabajo practico 2ultimo\tp2\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1461734808 e:\trabajo practico 2ultimo\tp2\utn.h
+
+1461735366 source:e:\trabajo practico 2ultimo\tp2\utn.c
+	<stdio.h>
+	<string.h>
+	"utn.h"
+
+1461735912 source:e:\trabajos practicos\tp2-final\tp2\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1461734808 e:\trabajos practicos\tp2-final\tp2\utn.h
+
